@@ -20,4 +20,4 @@ Lightbulb CMS is a very light CMS.
 
 ## License
 
-Lightbulb CMS is licensed under the GPLv3 (or later), see the [`LICENSE` file](https://github.com/lisezmoi/lightbulb/blob/master/LICENSE) for details.
+Lightbulb CMS is licensed under the GPLv3 (or later), see the [LICENSE file](https://github.com/lisezmoi/lightbulb/blob/master/LICENSE) for details.
