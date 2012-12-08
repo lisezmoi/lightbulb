@@ -1,6 +1,6 @@
-# Lightbulb CMS
+# Lightbulb
 
-Lightbulb CMS is a very light CMS.
+Lightbulb is a very light CMS.
 
 ```
 (~)
@@ -20,4 +20,4 @@ Lightbulb CMS is a very light CMS.
 
 ## License
 
-Lightbulb CMS is licensed under the GPLv3 (or later), see the [LICENSE file](https://github.com/lisezmoi/lightbulb/blob/master/LICENSE) for details.
+Lightbulb is licensed under the GPLv3 (or later), see the [LICENSE file](https://github.com/lisezmoi/lightbulb/blob/master/LICENSE) for details.
